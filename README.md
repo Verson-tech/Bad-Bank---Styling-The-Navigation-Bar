@@ -1,4 +1,4 @@
-# Bad-Bank---Styling-The-Navigation-Bar-18-10
+
 
 # <h1><strong><em>Project Title:</em></strong> Styling-The-Navigation-Bar-18-10</H1>
 <strong><em>Description of Project:</em></strong>The use of Bootstrap<br>
